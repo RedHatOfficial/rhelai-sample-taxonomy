@@ -1,0 +1,52 @@
+created_by: juliadenham
+version: 2
+seed_examples:
+  - question: |
+      Many expressions in English rhyme so they are easy to remember. Complete
+      the following common expression by providing the missing word where it
+      says <blank>. Your answer must be exactly one word, no more: See you later
+      alligator, in a while <blank>.
+    answer: crocodile
+  - question: |
+      Many expressions in English rhyme so they are easy to remember. Complete
+      the following common expression by providing the missing word where it
+      says <blank>. Your answer must be exactly one word, no more: Cheater
+      cheater, pumpkin <blank>.
+    answer: eater
+  - question: |
+      Many expressions in English rhyme so they are easy to remember. Complete
+      the following common expression by providing the missing word where it
+      says <blank>. Your answer must be exactly one word, no more: Good night,
+      sleep <blank>.
+    answer: tight
+  - question: |
+      Many expressions in English rhyme so they are easy to remember. Complete
+      the following common expression by providing the missing word where it
+      says <blank>. Your answer must be exactly one word, no more: an apple a
+      day keeps the doctor <blank>.
+    answer: away
+  - question: |
+      Many expressions in English rhyme so they are easy to remember. Complete
+      the following common expression by providing the missing word where it
+      says <blank>. Your answer must be exactly one word, no more: be there
+      and be <blank>.
+    answer: square
+  - question: |
+      Many expressions in English rhyme so they are easy to remember. Complete
+      the following common expression by providing the missing word where it
+      says <blank>. Your answer must be exactly one word, no more: easy peasy
+      lemon <blank>.
+    answer: squeezy
+  - question: |
+      Many expressions in English rhyme so they are easy to remember. Complete
+      the following common expression by providing the missing word where it
+      says <blank>. Your answer must be exactly one word, no more: I <blank>
+      with my little eye.
+    answer: spy
+  - question: |
+      Many expressions in English rhyme so they are easy to remember. Complete
+      the following common expression by providing the missing word where it
+      says <blank>. Your answer must be exactly one word, no more: liar liar
+      pants on <blank>.
+    answer: fire
+task_description: Teach the model common english expressions that rhyme.
